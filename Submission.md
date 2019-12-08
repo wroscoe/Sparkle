@@ -1,34 +1,30 @@
-## Need
+SparkleSlap is a tool for parents to motivate their kids to learn (initially about bitcoin and lightning).
 
-1. **People** want kids to learn about Bitcoin and the Lightning Network. 
+#### Problem:
+Parents want their kids to be prepared for the future but kids just want to play.
+Also, it's not easy for kids to spend money on the internet because of creditcard age restrictions.
 
-1. **Kids** want to understand Bitcoin and the Lightning Network. 
+#### Solution:
+A tool that lets parents fund quizes on topics they want their kids to learn about. When the kid completes the quiz they recieve bitcoin via the lightning network that they can spend.
 
-1. **Companies** are giving away bitcoins to beginners on social media.
+#### Rational for focusing on kids.
+Kids are the future of bitcoin. If their first experience buying something online is with lightning, any future transaction having to give up your identity to buy something is going to seem archaic. this will drive adoption. 
+
+* Video: 
+* Live Site: sparkleslap.com
 
 
-## Product satisfying the Need
+#### Future
+* Motetization by alowing featured quizes for companies products.
+* Embed answers 
 
-Meeting everyone's need, *we present the first version of Sparkle*. 
-People use *Sparkle* to fund learning about bitcoin and lightning network topics. 
-When kids or anyone else learn and complete their learning objective, they get *bitcoins as rewards*. **Learning is Earning**.
-Moreover, Sparkle can incentivise learning about different topics as bitcoin has applied multiple disciplines.
-Sparkle is the bitcoin killer app everyone has been waiting for as it enables applied learning of bitcoin ecosystem and disciplines.
-**Adoption has to start with education**.
 
-#
-[![](http://img.youtube.com/vi/s4g1XFU8Gto/0.jpg)](http://www.youtube.com/watch?v=s4g1XFU8Gto "Sparkle")
+#### Team:
+Perry, Netherlands
+Jercy, Germany
+Nicolas, Germany
+Will, US
+Lauren, US
+Ross, Japan
 
-## Presentation
-<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_1_1.jpg>
-<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_2.jpg>
-<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_3.jpg>
-<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_4.jpg>
-<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_5.jpg>
-<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_6_1.jpg>
-<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_7_1.jpg>
-<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_8_1.jpg>
-<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_9_1.jpg>
-<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_10.jpg>
-<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_11.jpg>
-<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_12.jpg>
+
